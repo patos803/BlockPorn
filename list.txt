@@ -53,3 +53,9 @@
 0.0.0.0 www.xnxx-pornos.com
 0.0.0.0 pornogratis19.xxx
 0.0.0.0 juegosporno.xxx
+0.0.0.0 rottentomatoes.com
+0.0.0.0 tanputas.com
+0.0.0.0 www.pornogratis19.xxx
+0.0.0.0 www.juegosporno.xxx
+0.0.0.0 www.rottentomatoes.com
+0.0.0.0 www.tanputas.com
