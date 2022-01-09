@@ -131,3 +131,5 @@
 0.0.0.0 www.xxxpeliculas.net
 0.0.0.0 www.mikesapartment.com
 0.0.0.0 pornoplay.online
+0.0.0.0 apornovideo.com
+0.0.0.0 www.apornovideo.com
